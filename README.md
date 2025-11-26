@@ -12,9 +12,11 @@ From fresh installs to complex production environments, I provide **end-to-end L
 - Custom applications and services
 - Desktop & laptop Linux users (single-user and business)
 
+[⬆ Back to top](#contact-information)
+
 ---
 
-## 🔗 Contact Information
+## 🔗 Contact Information <a id="contact-information"></a>
 
 For quotes, questions, or free initial consultation:
 
@@ -25,11 +27,13 @@ For quotes, questions, or free initial consultation:
 
 > I work as an independent freelancer / contractor and can sign NDAs if needed.
 
+[⬆ Back to top](#contact-information)
+
 ---
 
 ## 📚 Table of Contents
 
-- [Contact Information](#-contact-information)
+- [Contact Information](#contact-information)
 - [Supported Linux Distributions](#-supported-linux-distributions)
 - [1. Linux Server Installation & Provisioning](#1-linux-server-installation--provisioning)
 - [2. Linux Desktop & Laptop Setup](#2-linux-desktop--laptop-setup)
@@ -41,6 +45,8 @@ For quotes, questions, or free initial consultation:
 - [8. Troubleshooting & Emergency Support](#8-troubleshooting--emergency-support)
 - [9. How the Remote Work Process Works](#9-how-the-remote-work-process-works)
 - [10. Who This Service Is For](#10-who-this-service-is-for)
+
+[⬆ Back to top](#contact-information)
 
 ---
 
@@ -54,6 +60,8 @@ I work with **most major Linux distributions**, including but not limited to:
 - **Server environments:** Headless servers, command line only, container hosts
 
 If you’re not sure which distro to choose, I can recommend the best option for your use case (stability vs. bleeding edge, package ecosystem, support cycle, etc.).
+
+[⬆ Back to top](#contact-information)
 
 ---
 
@@ -74,6 +82,8 @@ Use cases:
 - Internal tools, intranet, or business apps
 - Game servers or special-purpose services
 
+[⬆ Back to top](#contact-information)
+
 ---
 
 ## 2. Linux Desktop & Laptop Setup
@@ -87,6 +97,8 @@ For everyday Linux users & power users:
 - Configure essential apps: browsers, office, email, password managers, dev tools
 
 I can also provide **1:1 training** on basic and intermediate Linux usage.
+
+[⬆ Back to top](#contact-information)
 
 ---
 
@@ -102,6 +114,8 @@ Security is not optional on public servers. I can:
 - Enable full-disk or data-at-rest **encryption** where appropriate
 
 Optional security reviews and periodic audits are also available.
+
+[⬆ Back to top](#contact-information)
 
 ---
 
@@ -121,6 +135,8 @@ Services include:
 - Setting up **automatic backups** (daily/weekly, off-site, encrypted)
 - Migrating databases between servers or providers
 
+[⬆ Back to top](#contact-information)
+
 ---
 
 ## 5. Web & Application Stack Deployment
@@ -138,6 +154,8 @@ I can deploy and configure full application stacks, including:
 
 I can also handle custom app deployment from your **GitHub/GitLab repo**.
 
+[⬆ Back to top](#contact-information)
+
 ---
 
 ## 6. DevOps, Automation & CI/CD
@@ -150,6 +168,8 @@ To make your infrastructure repeatable and reliable:
 - Implement **zero-downtime or low-downtime deployments**
 - Containerization with **Docker / docker-compose / Podman**
 - Optional: lightweight Kubernetes (K3s, MicroK8s) for advanced use cases
+
+[⬆ Back to top](#contact-information)
 
 ---
 
@@ -165,6 +185,8 @@ For clients who need **long-term stability**, I offer:
 
 These can be packaged as **monthly maintenance plans** customized to your needs.
 
+[⬆ Back to top](#contact-information)
+
 ---
 
 ## 8. Troubleshooting & Emergency Support
@@ -179,6 +201,8 @@ If something is broken, I can help diagnose and fix:
 - Broken packages, repository conflicts, dependency hell
 
 Emergency / priority support can be arranged depending on urgency and availability.
+
+[⬆ Back to top](#contact-information)
 
 ---
 
@@ -200,6 +224,8 @@ Emergency / priority support can be arranged depending on urgency and availabili
 4. **Verification & Handover:**  
    We test everything together (services running, performance, security basics), and I provide notes or documentation on what was done.
 
+[⬆ Back to top](#contact-information)
+
 ---
 
 ## 10. Who This Service Is For
@@ -208,6 +234,8 @@ Emergency / priority support can be arranged depending on urgency and availabili
 - Startups or small teams running production servers on VPS / cloud
 - Developers who want someone else to handle **ops, servers, and deployment**
 - Power users switching to Linux or building self-hosted services
+
+[⬆ Back to top](#contact-information)
 
 ---
 
@@ -218,3 +246,5 @@ For any Linux distribution, server, database, or custom application work, feel f
 - **Discord:** `goodthebest`
 
 Let’s make your Linux systems fast, secure, and reliable.
+
+[⬆ Back to top](#contact-information)
